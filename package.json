@@ -1,7 +1,7 @@
 {
   "name": "scribetoany",
   "version": "0.1.6",
-  "description": "Transcribe audio and video files into text, SRT or VTT subtitles from the command line, with ScribeToAny.",
+  "description": "Transcription CLI for AI agents and people: turn audio and video files into text, SRT or VTT subtitles with ScribeToAny.",
   "keywords": [
     "transcription",
     "speech-to-text",
@@ -10,7 +10,11 @@
     "srt",
     "vtt",
     "cli",
-    "ai-agent"
+    "ai-agent",
+    "agent-skill",
+    "claude-code",
+    "cursor",
+    "codex"
   ],
   "homepage": "https://scribetoany.com/developers",
   "repository": {

@@ -1,9 +1,10 @@
 # scribetoany
 
-Transcribe audio and video files from the command line with
-[ScribeToAny](https://scribetoany.com): text with timestamps, SRT or VTT
-subtitles, speaker labels, 99 languages. Built for coding agents (Claude
-Code, Codex, Gemini CLI, Cursor) as much as for people.
+A transcription CLI for AI agents and people. Turn audio and video files into
+text with timestamps or SRT/VTT subtitles, with speaker labels, in about 98
+languages, through [ScribeToAny](https://scribetoany.com). Coding agents
+(Claude Code, Codex, Cursor, Gemini CLI, OpenClaw) run it like any other
+command; the agent skill teaches them the options.
 
 ```bash
 npm i -g scribetoany          # or: npx scribetoany …
